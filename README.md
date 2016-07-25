@@ -21,4 +21,6 @@ Additional possible elements:
 8. Ability to click a region or multiple countries and see a bar chart of those countries
 
 Project #2:
-Same idea, but using circle size to see relative sizes
+Same idea, but using circle size to see relative size of spend
+
+% of GDP helps to normalize the data, allows you to compare across countries of hugely different sizes
